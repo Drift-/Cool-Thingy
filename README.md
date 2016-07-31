@@ -7,4 +7,4 @@ its pretty cool
 
 ##Sup
 
-<Heading>Hello </Heading> 
+<b1>Hello </b1> 
